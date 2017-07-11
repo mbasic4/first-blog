@@ -25,7 +25,7 @@ SECRET_KEY = 'mt_e(uc3k$v((9*__y@(6w%4q_+h-9eqrgp9-zr4w%=4k-2bby'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<marina_basic>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'marinabasic.pythonanywhere.com']
 
 
 # Application definition
